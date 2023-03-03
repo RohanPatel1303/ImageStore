@@ -1,0 +1,1 @@
+const bg_img="assets/background.png";
